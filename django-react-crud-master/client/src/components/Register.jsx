@@ -34,7 +34,7 @@ export function Register() {
           htmlFor="username"
           className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
         >
-          Tu nombre
+          Ingresa tu nombre
         </label>
         <input
           type="text"
