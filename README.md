@@ -8,11 +8,6 @@ Este proyecto es una aplicación web de gestión de tareas que combina un backen
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Requisitos Previos](#requisitos-previos)
 - [Instalación](#instalación)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Uso](#uso)
-- [Capturas de Pantalla](#capturas-de-pantalla)
-- [Autor](#autor)
-
 ---
 
 ## Características
@@ -57,19 +52,6 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 - **Git**
 
 ---
-django-react-crud-master/
-├── server/               # Backend (Django)
-│   ├── manage.py         # Archivo principal de Django
-│   ├── db.sqlite3        # Base de datos SQLite
-│   └── ...               # Otros archivos y carpetas de Django
-├── client/               # Frontend (React)
-│   ├── src/
-│   │   ├── components/   # Componentes reutilizables
-│   │   ├── pages/        # Páginas principales
-│   │   ├── api/          # Solicitudes HTTP al backend
-│   │   └── App.jsx       # Componente principal de React
-│   └── package.json      # Dependencias del frontend
-└── README.md             # Documentación del proyecto
 
 ## Instalación
 
