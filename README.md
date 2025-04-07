@@ -57,6 +57,19 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 - **Git**
 
 ---
+django-react-crud-master/
+├── server/               # Backend (Django)
+│   ├── manage.py         # Archivo principal de Django
+│   ├── db.sqlite3        # Base de datos SQLite
+│   └── ...               # Otros archivos y carpetas de Django
+├── client/               # Frontend (React)
+│   ├── src/
+│   │   ├── components/   # Componentes reutilizables
+│   │   ├── pages/        # Páginas principales
+│   │   ├── api/          # Solicitudes HTTP al backend
+│   │   └── App.jsx       # Componente principal de React
+│   └── package.json      # Dependencias del frontend
+└── README.md             # Documentación del proyecto
 
 ## Instalación
 
